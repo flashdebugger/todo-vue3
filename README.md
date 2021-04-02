@@ -15,3 +15,10 @@ After installing the dependencies the following NPM scripts become available:
 - `test:e2e`: runs E2E tests with [Cypress](https://www.cypress.io/) in the `tests/e2e` folder suffixed with `*.spec.js`
 - `format`: formats the code with [Prettier](https://prettier.io/) within the `src` folder
 - `lint`: lint files with [ESLint](https://eslint.org/) based on [Airbnb's styleguide](https://github.com/airbnb/javascript) and the Prettier config
+
+<br />
+<br />
+
+[Demo](https://vue3-composition.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/25a28663-024e-44ee-a6c3-d233945ccee8/deploy-status)](https://app.netlify.com/sites/vue3-composition/deploys)
